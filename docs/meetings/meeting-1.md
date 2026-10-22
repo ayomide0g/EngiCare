@@ -5,7 +5,7 @@
 **Institution:** Muğla Sıtkı Koçman University  
 **Meeting Type:** Project Initiation and Planning Meeting  
 **Date:** 22 October 2026  
-**Attendees:** Abdullah Mohammed, Ayomide Joshua Ogunmokun, Fahrettin Yiğitalp Karaca, Ali Ened Nayef Dweikat
+**Attendees:** Abdullah Mohammed, Ayomide Ogunmokun, Fahrettin Yiğitalp Karaca, Ali Ened Nayef Dweikat
 
 ## 1. Meeting Objectives
 
